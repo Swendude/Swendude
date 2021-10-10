@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Swen, I'm a freelance software developer and teacher. I like python, AI and functional programming.
 
-- 📫 How to reach me: swenmulderij@gmail.com or give me a call on +31 (0)6 27225323 (but add 5 to the last number ;))
+- 📫 How to reach me: swenmulderij@gmail.com or give me a call on +31 (0)6 27225323 (but add 5 to the last number)
 <!--
 **Swendude/Swendude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
